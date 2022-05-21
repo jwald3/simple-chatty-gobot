@@ -1,0 +1,2 @@
+# Simple Chatty (Go)bot
+This program is an introductory-level program written in Go meant to showcase knowledge of control flows, single-responsibility principle functions, and handling user inputs. I built the program along with the "Project: Simple Chatty Bot" project on JetBrains Academy and included comments explaining my specific choices to use Go syntax and tools to achieve the program's intended functionality. 
